@@ -1,1 +1,1 @@
-# mighty-jaxx-fe
+# mighty-jaxx-admin
