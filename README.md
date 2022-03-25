@@ -9,16 +9,16 @@ This project was bootstrapped with `create-react-app` (https://reactjs.org/docs/
 ## Get it started
 Clone down this repository. In the project root directory, run:
 
-Installation
-`npm install`  
+Installation:\
+`npm install`
 
-To Start Server:
-`npm start`  
+To Start Server:\
+`npm start`
 
-To Visit App:
+To Visit App:\
 `localhost:3000`
 
-Production build:
+Production build:\
 `npm run build`
 
 ## Environment variables
